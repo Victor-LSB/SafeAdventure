@@ -14,15 +14,15 @@
     }
     #nav {
       background-color: #123D2C;
-      height: 81px;
+      height: 8.4%;
       widht: 100%;
       display: flex;
       margin: 0;
     }
     #logo {
       width: 5%;
-      height: 81px;
-      margin: 0%;
+    height: 5%;
+    margin: 0%;
     }
     #texto-logo {
       margin-left: 15px;
@@ -50,7 +50,7 @@
       font-family: Arial, Helvetica, sans-serif;
       list-style: none;
       display: flex;
-      
+      height: 96.5%;
       
      
       
@@ -61,7 +61,6 @@
       font-size: 30px;
       border-right: solid 2px gray;
       width: 100%;
-      height: 78px;
       text-align: center;
       padding-left: 20px;
       padding-right: 20px;
@@ -94,8 +93,8 @@
   
     }
     #img-logo {
-      width: 86px;
-      height: 81px;
+      width: 100%;
+    height: 2000%;
     }
     #texto {
       text-decoration: none;
@@ -125,7 +124,6 @@
       margin-left: 5%;
         margin-top: 5%;
         width: 20%;
-        height: 128px;
         display: flex;
 
       }
@@ -154,7 +152,6 @@
         margin-top: 20%;
         margin-bottom: 20%;
         width: 20%;
-        height: 128px;
         display: flex;
       }
       #textf {
@@ -169,7 +166,6 @@
         margin-left: 5%;
         margin-top: 5%;
         width: 20%;
-        height: 128px;
         display: flex;
       }
       #texte {
